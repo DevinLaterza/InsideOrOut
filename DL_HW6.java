@@ -29,7 +29,7 @@ public class DL_HW6
         System.out.println("Radius must be a positive integer");
       else
         continueInput = false; //user entered a valid integer
-      
+      // this is a test
     }
     catch (InputMismatchException ex){
       System.out.println("Invalid input, please enter an integer value");
