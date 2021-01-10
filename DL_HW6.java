@@ -149,6 +149,7 @@ public class DL_HW6
    if (suit == 3)
      System.out.println(" of Spades");
     
+     input.close();
   }
 }
       
