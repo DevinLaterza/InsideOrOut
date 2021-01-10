@@ -54,6 +54,8 @@ public class DL_HW6
       }
     } while (continueInput);
     
+    //this is a new change
+    
     continueInput = true;
     
     do {
