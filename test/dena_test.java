@@ -5,6 +5,6 @@ public class dena_test {
 
     // this line was added via vs code
     // this is a new line
-    // this line was change using the editor on github, boo hoo
+    // this line was changed using the editor on github, boo hoo
     // adding yet another new line
 }
